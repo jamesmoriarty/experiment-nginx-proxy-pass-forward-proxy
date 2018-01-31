@@ -1,1 +1,1 @@
-![alt text](https://github.com/jamesmoriarty/experiment-forward-proxy-nginx/raw/master/proxy_pass_forward_proxy.png "Logo Title Text 2")
+![alt text](https://github.com/jamesmoriarty/experiment-nginx-proxy-pass-forward-proxy/blob/master/proxy_pass_forward_proxy.png?raw=true "")
